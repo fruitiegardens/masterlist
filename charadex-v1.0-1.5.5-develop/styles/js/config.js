@@ -15,9 +15,9 @@ let charadex = {};
 /* Any preview links will still show Charadex's information
 /* ==================================================================== */
 charadex.site = {
-  title: "Charadex",
-  url: "https://charadex-team.github.io/charadex-v1.0/",
-  description: `A tool for organizing small ARPGs and species.`
+  title: "Fruitie Gardens",
+  url: "https://charadex.com/fruitiegardens,
+  description: `Fruitie Gardens Official Masterlist`
 }
 
 /* ==================================================================== */
@@ -26,7 +26,7 @@ charadex.site = {
 /* ==================================================================== */
 charadex.sheet = {
 
-  id: "1GwgfLizD3HQCieGia6di-TfU4E3EipT9Jb0BDZQwNak",
+  id: "1S97cZGarCTtpA_PKYjMHKRGa2RBCaYQQvS0aaCl4MSo",
 
   pages: {
     masterlist:    "masterlist",
