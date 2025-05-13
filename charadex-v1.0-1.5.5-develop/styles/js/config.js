@@ -16,7 +16,7 @@ let charadex = {};
 /* ==================================================================== */
 charadex.site = {
   title: "Fruitie Gardens",
-  url: "https://charadex.com/fruitiegardens,
+  url: "https://charadex.com/fruitiegardens",
   description: `Fruitie Gardens Official Masterlist`
 }
 
